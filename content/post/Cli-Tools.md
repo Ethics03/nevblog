@@ -1,5 +1,12 @@
-We use CLI-Tools almost every day as developers, from git to docker.
++++
+title = "Cli Tools"
+date = "2025-07-04T04:51:21+05:30"
+draft = false
++++
+A blog about CLI-Tools and the need of building more of them!
+<!--more-->
 
+We use CLI-Tools almost every day as developers, from git to docker.
 These CLI-Tools are not just reliable but also efficient and user-friendly.
 
 What is a CLI-Tool?
@@ -70,3 +77,43 @@ when you open Terminal on Linux/macOS.
 
 You want to search for a particular file in a directory?
 
+<img src = "/images/cli1.png"/>
+
+**Ah! found my config!**
+
+**cd** — command is basically used to move into a particular directory in this case (.config)
+
+**ls** — Is used to list all the files or folders in that particular directory.
+
+So that’s how I got my config!!
+
+That’s basically the shell that you’re using to find that file.
+
+Now there is freedom to choose what shell you want to use depending on what features you need from that shell.
+
+What I am using in the image above is fish shell.
+
+Other popular options are :
+1. **Bash**
+2. **Zsh**
+3. **Fish**
+4. **Powershell**
+
+Here is a cool CLI-Tool called lazygit
+
+
+<img src  = /images/cli2.png>
+
+---
+
+***The power of CLI-Tools used at its best. It gives you are GUI-like experience for managing version control for your projects which even the pros love!!***
+
+--- 
+
+***WHY YOU SHOULD CONSIDER BUILDING YOUR OWN CLI-TOOL ?***
+
+Now the main part of this article and the motivation it gives you is for making your own CLI-Tool and why you should make it?
+
+GUI may not have the same flexibility as a command-line interface. GUIs do not support scripting and automation. Some things are easier done with one command than navigation through clicks.
+CLI-Tools are loved by software developers and system administrators as it makes configuring, deploying, and maintaining systems easier and faster.
+Example: package manager like npm or pip primarily support CLI.

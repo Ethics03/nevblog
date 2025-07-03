@@ -1,6 +1,0 @@
-CLI TOOLS ARE SO COOL JUST LIKE ME 
-
-```
-DAYUMMM
-
-```

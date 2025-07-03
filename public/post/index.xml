@@ -7,21 +7,21 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Rachit Srivastava](https://rachitdev.io).</copyright>
-    <lastBuildDate>Wed, 02 Jul 2025 12:09:43 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 04:57:30 +0530</lastBuildDate>
     <atom:link href="https://nevblogs.vercel.app/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New</title>
-      <link>https://nevblogs.vercel.app/post/new/</link>
-      <pubDate>Wed, 02 Jul 2025 12:09:43 +0530</pubDate>
-      <guid>https://nevblogs.vercel.app/post/new/</guid>
-      <description></description>
+      <title>Dynamo</title>
+      <link>https://nevblogs.vercel.app/post/dynamo/</link>
+      <pubDate>Fri, 04 Jul 2025 04:57:30 +0530</pubDate>
+      <guid>https://nevblogs.vercel.app/post/dynamo/</guid>
+      <description>&lt;p&gt;Just a cool project idea I had recently!&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>https://nevblogs.vercel.app/post/cli/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nevblogs.vercel.app/post/cli/</guid>
-      <description>&lt;p&gt;CLI TOOLS ARE SO COOL JUST LIKE ME&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;DAYUMMM&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+      <title>Cli Tools</title>
+      <link>https://nevblogs.vercel.app/post/cli-tools/</link>
+      <pubDate>Fri, 04 Jul 2025 04:51:21 +0530</pubDate>
+      <guid>https://nevblogs.vercel.app/post/cli-tools/</guid>
+      <description>&lt;p&gt;A blog about CLI-Tools and the need of building more of them!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
