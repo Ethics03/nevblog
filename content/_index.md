@@ -1,0 +1,29 @@
+<h1 align="center">Hi 👋, I'm Rachit Srivastava</h1>
+
+
+<img src = "../images/terra.jpg"/>
+
+
+- 🌱 I’m currently into **Backend Development & DevOps.**
+- 💡 Currently working on **[UniCon](https://github.com/Ethics03/UniCon) Backend- My Startup** 
+- 💬 Ask me about **DevOps and CyberSec.**
+- 🤖 Grinding Leetcode.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/___rachit___" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="___rachit___" height="40" width="40" /></a>
+<a href="https://instagram.com/___rachit____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___rachit____" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rachit-srivastava-3b764527a/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" height='30' width = '30' /></a>
+</p>
+
+
+<h3 align="left">Operating Systems:</h3>
+<p align="left"> 
+<a href="https://skillicons.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=fedora,arch,redhat,mint,debian,ubuntu&perline=3" /></a>
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,cpp,typescript,bash,docker,redis,prisma,nestjs,postgres,nextjs,css,tailwind,react,nodejs,mongodb,neovim,git&perline=6" /></a>
+</p>
