@@ -27,7 +27,7 @@ I will use GPT-4o mini (as of now) and Composio MCP for connecting the model wit
 
 Composio is a really sweet MCP implementation. It has integration of mostly all the tools I need.
 
-- Mira
+- Miro
 - Gmail
 - Google Calendar and many more.
 
