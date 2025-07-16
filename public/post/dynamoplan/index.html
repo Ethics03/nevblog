@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><title>Categories &ndash; Nevzy Blogs</title>
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><title>Dynamo Plan &ndash; Nevzy Blogs</title>
 <meta name="description" content="I&#39;m a Backend Developer and a Cloud/DevOps enthusiast.">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -37,7 +37,7 @@
     
     <li class="main-nav__item"><a class="nav-main-item" href="http://localhost:1313/about/" title="">About</a></li>
     
-    <li class="main-nav__item"><a class="nav-main-item" href="http://localhost:1313/post/" title="Posts">Posts</a></li>
+    <li class="main-nav__item"><a class="nav-main-item active" href="http://localhost:1313/post/" title="Posts">Posts</a></li>
     
     </ul>
 </nav>
@@ -45,14 +45,51 @@
 </header>
 
             <section class="page__body">
-    <h1 id="categories">Categories</h1>
-
-    
-
-    <ul>
-    
-    </ul>
-
+    <header class="content__header">
+        <h1>Dynamo Plan</h1>
+    </header>
+    <div class="content__body">
+        <p>Plan for Dynamo MVP</p>
+<p>Okay!</p>
+<p>So as I explained about my project idea <em>Dynamo</em> in the previous blog. I was thinking of what tech-stack to use, AI-Model to use and also how should I connect multiple services together.</p>
+<p>That&rsquo;s when I thought about MCP! <strong>Model Context Protocol</strong></p>
+<p>MCP - is basically a set of protocols that lets your AI-Model connect to various services through a context provided. Stuff like</p>
+<ul>
+<li>Fetching APIs</li>
+<li>Querying DBs</li>
+<li>Interacting with tools like gmail, google calendar etc.</li>
+</ul>
+<p>So I thought as <strong>dynamo</strong> will connect with the user through natural language and track their progress with the micro-goals for the main goal they give to complete in a certain amount of time.</p>
+<p>I will use GPT-4o mini (as of now) and Composio MCP for connecting the model with the services I want to use.</p>
+<p>Composio is a really sweet MCP implementation. It has integration of mostly all the tools I need.</p>
+<ul>
+<li>
+<p>Mira</p>
+</li>
+<li>
+<p>Gmail</p>
+</li>
+<li>
+<p>Google Calendar and many more.</p>
+</li>
+<li>
+<p>For the MVP, I&rsquo;ll probably use GPT-4o mini as its free as of now and will pivot to better models in the future.</p>
+</li>
+<li>
+<p>Though Claude has more structured answers when it comes to dividing that big goal into smaller sub-goals in a structured manner, but as <strong>Composio</strong> has better support for OpenAI models. I&rsquo;ll use that for now.</p>
+</li>
+<li>
+<p>Going to start working on the MVP let&rsquo;s see how it goes.</p>
+</li>
+<li>
+<p>This might solve a really important problem of structuring any idea or goal for companies or in general anyone.</p>
+</li>
+<li>
+<p>Dynamo will let them edit the structure as they want but also give them a sweet structure to play around and experiment with in order to finish their goal.</p>
+</li>
+</ul>
+    </div>
+    <footer class="content__footer"></footer>
 
             </section>
 
@@ -79,6 +116,14 @@
 </div>
                 <hr>
                 <div class="aside__content">
+    
+    
+        <p>
+            
+            2025-07-16
+        </p>
+    
+
     
 
                 </div>

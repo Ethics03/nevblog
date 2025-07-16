@@ -12,7 +12,7 @@ I feel like it is already implemented but I want to give a catch to it.
 
 I personally have a problem sitting for long hours when I'm working.
 
-I like to give breaks to myself instead of solving a bit problem for 2 hours straight up.
+I like to give breaks to myself instead of solving a big problem for 2 hours straight up.
 
 Well I had this project idea -> Named it Dynamo (because idk Dynamic Programming-like idea or something)
 

@@ -2,32 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nevzy Blogs</title>
-    <link>https://nevblogs.vercel.app/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Nevzy Blogs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Rachit Srivastava](https://nevblogs.vercel.app).</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 04:57:30 +0530</lastBuildDate>
-    <atom:link href="https://nevblogs.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jul 2025 09:30:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamo Plan</title>
+      <link>http://localhost:1313/post/dynamoplan/</link>
+      <pubDate>Wed, 16 Jul 2025 09:30:00 +0530</pubDate>
+      <guid>http://localhost:1313/post/dynamoplan/</guid>
+      <description>&lt;p&gt;Plan for Dynamo MVP&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Dynamo</title>
-      <link>https://nevblogs.vercel.app/post/dynamo/</link>
+      <link>http://localhost:1313/post/dynamo/</link>
       <pubDate>Fri, 04 Jul 2025 04:57:30 +0530</pubDate>
-      <guid>https://nevblogs.vercel.app/post/dynamo/</guid>
+      <guid>http://localhost:1313/post/dynamo/</guid>
       <description>&lt;p&gt;Just a cool project idea I had recently!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cli Tools</title>
-      <link>https://nevblogs.vercel.app/post/cli-tools/</link>
+      <link>http://localhost:1313/post/cli-tools/</link>
       <pubDate>Fri, 04 Jul 2025 04:51:21 +0530</pubDate>
-      <guid>https://nevblogs.vercel.app/post/cli-tools/</guid>
+      <guid>http://localhost:1313/post/cli-tools/</guid>
       <description>&lt;p&gt;A blog about CLI-Tools and the need of building more of them!&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://nevblogs.vercel.app/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 02 Jul 2025 12:21:34 +0530</pubDate>
-      <guid>https://nevblogs.vercel.app/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;/br&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;This website is for my blogposts. This will probably help me with being consistent and also being&#xA;able to share my experiences with others.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Though it probably won&amp;rsquo;t get many views, I hope its helpful.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I like to use Linux, I use &lt;strong&gt;Arch Linux&lt;/strong&gt; as my Operating System.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently working on my startup &lt;strong&gt;UNICON&lt;/strong&gt; - will give details in blogs.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;My setup:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/archsetup.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I like to make cool tools and scalable Backend Systems.&lt;/p&gt;</description>
     </item>
   </channel>
