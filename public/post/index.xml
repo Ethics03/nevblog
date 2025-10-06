@@ -7,15 +7,8 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Rachit Srivastava](https://nevblogs.vercel.app).</copyright>
-    <lastBuildDate>Wed, 16 Jul 2025 09:30:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 04:57:30 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dynamo Plan</title>
-      <link>http://localhost:1313/post/dynamoplan/</link>
-      <pubDate>Wed, 16 Jul 2025 09:30:00 +0530</pubDate>
-      <guid>http://localhost:1313/post/dynamoplan/</guid>
-      <description>&lt;p&gt;Plan for Dynamo MVP&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Dynamo</title>
       <link>http://localhost:1313/post/dynamo/</link>
