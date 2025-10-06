@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachit Srivastava</h1>
 
 
-<img src = "../images/blackhole.jpg"/>
+<img src = "../images/space.jpg"/>
 
 
 

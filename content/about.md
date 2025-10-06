@@ -21,9 +21,9 @@ able to share my experiences with others.
 
 - I like to make cool tools and scalable Backend Systems.
 
-- Currently I'm learning **Golang**
+- Currently I'm learning **Rust**. 
 
-- I develop my APIs in **NestJS** as it's a very scalable and cool framework.
+- I develop my APIs in **NestJS** as it's a very scalable and cool framework, though I also use ExpressJS.
 ---
 - **Some of my projects are:** 
 
