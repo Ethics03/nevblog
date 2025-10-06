@@ -13,7 +13,7 @@ able to share my experiences with others.
 
 - I like to use Linux, I use **Arch Linux** as my Operating System.
 
-- I'm currently working on my startup **blud - your internet dorm** - will give details in blogs.
+- I'm currently working on my startup **Dex** - will give details in blogs.
 
 **My setup:** 
 

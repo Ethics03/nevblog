@@ -6,8 +6,8 @@
 
 
 - 🌱 I’m currently into **Backend Development & DevOps.**
-- 💡 Currently working on **[blud - your internet dorm](https://github.com/blud-sh/blud) Backend- My Startup** 
-- 💬 Ask me about **DevOps and CyberSec.**
+- 💡 Currently working on **[Dex](https://github.com/dex-sh) - My Startup** 
+- 💬 Ask me about **DevOps and Cloud.**
 - 🤖 Grinding Leetcode.
 
 <h3 align="left">Connect with me:</h3>
