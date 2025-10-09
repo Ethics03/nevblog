@@ -11,7 +11,8 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
 # Automatically add content sections to main menu
-sectionPagesMenu = "main"
+# sectionPagesMenu = "main"
+
 
 [pagination]
 pagerSize = 3
@@ -54,6 +55,12 @@ url = "mailto:hello@rachitt.dev"
     name = "About"
     url = "/about/"
     weight = 10
+
+  [[menu.main]]
+    identifier = "blogs"
+    name = "Blogs"
+    url = "/post/"
+    weight = 20
 
 [taxonomies]
 category = "categories"

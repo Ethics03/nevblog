@@ -38,6 +38,7 @@ Now why or when do we really need a CLI-Tool?
 
 Well, from a general perspective considering a large population of users of any operating system the general consensus is —
 
+---
 USE OF CLI IS A FUNDAMENTAL UX ISSUE
 
 Well that is TRUE.
@@ -53,7 +54,9 @@ This is important for systems with limited hardware capabilities or remote serve
 
 You can manage servers remotely by submitting commands over a secure shell.
 
+---
 FOR DEVELOPERS AND SYSADMINS
+
 Learning CLI-tools and CLI-toolchain for Developers and Sysadmins helps in deeper understanding of the system.
 
 For example: You want to quickly see logs for a particular error that you want to fix for your system?
@@ -64,12 +67,17 @@ journalctl is a command-line utility in Linux used to view and query logs stored
 
 This indeed is really fast and saves you a lot of time.
 
+---
 DEVELOPER’S BEST FRIEND
+
+
 CLI-Tools are a developer’s best friend. They help you understand how each and every process of a particular software or service actually works and also helps you in understanding the general workflow of the code better.
 
 git being the most popular CLI-Tool is really convenient and makes it way easy to pull repos, push commits and check status of your current dev-environment really fast and that saves a lot of time for the developer to actually code their project.
 
+---
 How does CLI WORK?
+
 The CLI basically operates on the default shell. which is between the operating system and the user.
 
 A shell is basically like a translator between you and the OS.
