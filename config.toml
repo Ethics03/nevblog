@@ -1,8 +1,8 @@
-baseURL = "https://nevblogs.vercel.app/"
+baseURL = "https://rachitt.dev/"
 theme = "risotto"
-title = "Nevzy Blogs"
+title = "Rachit Blogs"
 author = "Rachit Srivastava"
-copyright = "© [Rachit Srivastava](https://nevblogs.vercel.app)."
+copyright = "© [Rachit Srivastava](https://www.rachitt.dev)."
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true

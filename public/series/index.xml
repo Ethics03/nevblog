@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Nevzy Blogs</title>
+    <title>Series on Rachit Blogs</title>
     <link>http://localhost:1313/series/</link>
-    <description>Recent content in Series on Nevzy Blogs</description>
+    <description>Recent content in Series on Rachit Blogs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© [Rachit Srivastava](https://nevblogs.vercel.app).</copyright>
+    <copyright>© [Rachit Srivastava](https://www.rachitt.dev).</copyright>
     <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
